@@ -1,0 +1,15 @@
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\bin\Debug\net6.0\Examen Unidad 3.exe
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\bin\Debug\net6.0\Examen Unidad 3.deps.json
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\bin\Debug\net6.0\Examen Unidad 3.runtimeconfig.json
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\bin\Debug\net6.0\Examen Unidad 3.dll
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\bin\Debug\net6.0\Examen Unidad 3.pdb
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.csproj.AssemblyReference.cache
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.AssemblyInfoInputs.cache
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.AssemblyInfo.cs
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.csproj.CoreCompileInputs.cache
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.dll
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\refint\Examen Unidad 3.dll
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.pdb
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\Examen Unidad 3.genruntimeconfig.cache
+C:\Users\CD15\Desktop\Eduardo Salazar\Examen Unidad 3\obj\Debug\net6.0\ref\Examen Unidad 3.dll
